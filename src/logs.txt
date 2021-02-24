@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-24T10:29:08.531462Z</date>
+  <millis>1614162548531</millis>
+  <nanos>462000</nanos>
+  <sequence>0</sequence>
+  <logger>handlers.Logger</logger>
+  <level>INFO</level>
+  <class>handlers.Logger</class>
+  <method>logData</method>
+  <thread>1</thread>
+  <message>Money go</message>
+</record>
+</log>
